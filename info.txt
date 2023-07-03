@@ -1,0 +1,2 @@
+ism = Jamshidbek Izzatullaev
+project = Yangiliklar
